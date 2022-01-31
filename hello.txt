@@ -1,4 +1,5 @@
 mkdir shell
 cd shell
 hiii
+ravinder
 echo Hello I am learning shell scripting > shell.txt
